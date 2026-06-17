@@ -1,0 +1,4 @@
+interface:
+  display_name: "心理自测访谈"
+  short_description: "收集心理困扰并给出风险分层"
+  default_prompt: "Use $mental-health-self-intake to help me梳理当前心理困扰并给出初步风险分层。"
